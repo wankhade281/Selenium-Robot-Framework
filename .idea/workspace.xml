@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17dd5e42-0069-4898-a6b9-d53a31c17f58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/robotframework[selenium].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-screenshot-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +45,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582951571983">
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583380789381">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582951571983" />
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583380789381" />
     <state x="205" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1582801861765">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" width="1022" height="737" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582801861765" />
+    <state x="167" y="127" width="1099" height="541" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583381217244">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="127" width="1099" height="541" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1583381217244" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582950211136">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582950211136" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583381062628">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1583381062628" />
   </component>
 </project>
