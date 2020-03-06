@@ -2,39 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17dd5e42-0069-4898-a6b9-d53a31c17f58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/resources.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/LoginTC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/capture_screen.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/database_testing.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/forloop_demo.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/getall_links.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/mouse_operations.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/scrolling_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/switchto_multiple_browsers.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/table_demo.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/user_keywords.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/setUp_teatDown.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/tagging.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-screenshot-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-screenshot-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-screenshot-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-screenshot-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-screenshot-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/tabbed_window.robot" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/tabbed_window.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -59,10 +35,44 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium-framework" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webpage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robotframework[selenium]" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webpage/tk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tk" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -77,23 +87,46 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="311" y="61" width="800" height="684" key="#Custom_Plugin_Repositories" timestamp="1583475483503">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="61" width="800" height="684" key="#Custom_Plugin_Repositories/67.27.1299.741@67.27.1299.741" timestamp="1583475483503" />
     <state x="387" y="202" width="649" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583390286875">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="387" y="202" width="649" height="397" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583390286875" />
-    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583380789381">
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583493819731">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583380789381" />
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583493819731" />
+    <state width="1253" height="172" key="GridCell.Tab.0.bottom" timestamp="1583488433189">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="172" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583488433189" />
+    <state width="1253" height="172" key="GridCell.Tab.0.center" timestamp="1583488433188">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="172" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583488433188" />
+    <state width="1253" height="172" key="GridCell.Tab.0.left" timestamp="1583488433188">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="172" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583488433188" />
+    <state width="1253" height="172" key="GridCell.Tab.0.right" timestamp="1583488433189">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="172" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583488433189" />
     <state x="222" y="134" width="978" height="533" key="IDE.errors.dialog" timestamp="1583389357119">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="222" y="134" width="978" height="533" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1583389357119" />
-    <state x="205" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583409410480">
+    <state x="205" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583485796151">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="205" y="31" width="1022" height="737" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583409410480" />
+    <state x="205" y="31" width="1022" height="737" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583485796151" />
     <state x="267" y="142" width="1099" height="541" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583386635278">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
