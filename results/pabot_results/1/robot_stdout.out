@@ -1,0 +1,19 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.Table Demo                                                             
+==============================================================================
+TableValidation                                                       0
+0
+| FAIL |
+Element with locator 'xpath://table[@name="BookTable"]/tbody/tr[5]/td[1]' not found.
+------------------------------------------------------------------------------
+Suites.Table Demo                                                     | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  /home/admin1/Demo1/PycharmProjects/robotframework[selenium]/results/pabot_results/1/output.xml

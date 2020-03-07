@@ -1,0 +1,6 @@
+datasources:abc8f3722a6f5b9d7df20a0e0d631b0204dc1287
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:f45358f4d516bf2bb6c6e7eb4c6af4c89b87045c
+--suite Suites.Tabbed Window
+--suite Suites.Table Demo

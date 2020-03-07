@@ -1,0 +1,16 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.Tabbed Window                                                          
+==============================================================================
+TabbedWindowsTest                                                     | PASS |
+------------------------------------------------------------------------------
+Suites.Tabbed Window                                                  | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+1 critical test, 1 passed, 0 failed
+1 test total, 1 passed, 0 failed
+==============================================================================
+Output:  /home/admin1/Demo1/PycharmProjects/robotframework[selenium]/pabot_results/0/output.xml
